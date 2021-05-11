@@ -1,7 +1,7 @@
 #-*- coding：utf-8 -*-
 
 def PrintHello():
-    print("Hello Flyman! Master modify")
+    print("Hello Flyman! Feature modify")
 
 def DevFirstAdd():
     print("Dev first add !")
